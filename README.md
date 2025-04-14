@@ -190,6 +190,5 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 For questions or issues, feel free to reach out:
 ✉️ Email: <jeffrey.macneill@gmail.com>
-🐦 Twitter: @yourhandle
-🚀 GitHub: jmacneill66
-This README provides a clear, structured overview of Chirpy, making it easy for developers to set up and contribute. 🚀
+
+
